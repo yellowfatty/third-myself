@@ -3,8 +3,6 @@ package com.qf.admin.pojo.po;
 public class Order {
 //    订单实体类
 //    订单实体类
-//    订单实体类
-//    订单实体类
     private int orderId;
     private String orderNo;
     private String tenementname;

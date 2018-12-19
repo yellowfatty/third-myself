@@ -6,8 +6,6 @@ import com.qf.admin.pojo.po.Order;
 public interface Orderservice {
     //订单service
     //订单service
-    //订单service
-    //订单service
     JSONObject listtoroder(JSONObject jsonObject);
 
 
